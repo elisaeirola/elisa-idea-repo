@@ -23,6 +23,4 @@ This is a change to my idea.
 
 this is bullshit
 
-is this working?
-
-what is happening
+this is a change
